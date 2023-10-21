@@ -1,21 +1,15 @@
-### Hi, I'm Fran 👋
+# Hi, I'm Fran 👋
 
-Happy to learn programming and share projects here.
+### Happy to learn programming and share projects here.
 
-🌱 I’m currently learning all about full-stack development. 
-🔭 I’m currently working on a software company as QA tester.
+### 🌱 I’m currently learning all about full-stack development. 
 
-<!--
-**murxianico/murxianico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently working on a software company as QA tester.
 
-Here are some ideas to get you started:
+### Currently I'm learning:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" weight="40" height="40" />
+          
+          
 
-- 🔭 I’m currently working on ...
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
